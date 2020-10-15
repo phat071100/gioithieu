@@ -1,8 +1,18 @@
-print("Mời bạn nhập số a:");
-a=input();
-print("Mời bạn nhập số b:");
-b=input();
-x=int(a) + int(b);
-y=int(a) * int(b);
-print("kết quả của a + b là:",x);
-print("kết quả của a * b là:",y);
+def cong(a,b):
+    phepcong = a + b
+    return phepcong
+def nhan(a,b):
+    phepnhan = a * b
+    return phepnhan
+while True:
+    try:
+        x = float(input("Nhập số thứ nhất:"))
+        y = float(input("Nhập số thứ hai:"))
+        break
+    except:
+        print("bạn đã nhập sai")
+        continue
+Q = cong(x,y)
+W = nhan(x,y)
+print("Kết quả cộng là",Q);
+print("Kết quả nhân là",W);
