@@ -1,7 +1,7 @@
 # ***Danh sách các thành viên của nhóm Tester***
 * Anh Trung (Traing của nhóm Tester)
 * Nguyễn Tấn Phát 
-* Trần Minh Thư
+* Trần Thị Minh Thư
 * Nguyễn Đức Phát
 * Lê Thị Ngọc An
 * Cao Ngọc Thảo Vi
