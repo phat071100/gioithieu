@@ -4,7 +4,7 @@
 * Trần Minh Thư
 * Nguyễn Đức Phát
 * Lê Thị Ngọc An
-* Cao Ngọc Minh Thư
+* Cao Ngọc Thảo Vi
   ![alt](https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/120811839_922827251459829_7187046937842075562_o.jpg?_nc_cat=106&_nc_sid=8bfeb9&_nc_ohc=6NM5R5r3H_UAX-0C3YA&_nc_ht=scontent-sin6-1.xx&oh=a0acdff72279f46754ba09cbfb2ba31e&oe=5FAD5A69)(nhóm tester nè :))
   
 # ***Nội dung chính***
